@@ -10,7 +10,7 @@ Command        Argument    Example
 
 
 
-fetch_weather   <city>     fetch_weather Nairobi
+fetch_weather   city     fetch_weather Nairobi
 
 
 INSTALLATION
