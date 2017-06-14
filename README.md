@@ -21,3 +21,10 @@ Create a virtualenv  then run the following commands to download dependencies: p
 
 Go to the main folder of the repo you cloned and type python anga.py
 
+
+You can change the api key and get your own by signing up at https://home.openweathermap.org/users/sign_up and copying the key.
+
+Then change the key in the weather.py file by modifying this variable: api_key ="&APPID="YOUR_KEY_HERE" which is located
+
+in the fetch weather method
+
